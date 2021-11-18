@@ -24,18 +24,6 @@ For instant communication, we rely on Slack. We run a Slack
 community with different private channels, such as `#dev`, `#marketing`, or `#company`. By the way, most of our users and customers
 are also onboarded to our Slack.
 
-## Meeting Culture
-
-In general, we aim to minimize synchronous communication and therefore meetings.
-We believe that human beings can be most productive and creative when
-being able to perform deep work on their own schedule without being
-interrupted.
-
-Of course, certain meetings can make sense and add value. In this case,
-we require that each meeting has a well-defined agenda written in a
-Google Doc, which can be reviewed, commented on, and extended before the
-meeting.
-
 ## Tools
 
 We use the following tools on a daily basis:
