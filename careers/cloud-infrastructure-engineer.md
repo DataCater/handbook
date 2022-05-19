@@ -7,7 +7,7 @@ DataCater was founded in 2020 and is serving customers from industries, such as 
 **As a remote-first company, we value visibility, transparency, and asynchronous communication.**
 
 At DataCater, we evolve around the product we build. Every position - from infrastructure over engineering to sales - is based on the question:
-How can we enhance the value of our product and the experience of our users?
+How can we enhance the value of our product and the experience of our users? Have a look at our [handbook](https://github.com/DataCater/handbook) to see how we operate as acompany.
 
 ## What you will do
 
