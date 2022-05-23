@@ -16,8 +16,6 @@ We believe that great products and companies are built in environments
 of trust and freedom, where human beings can perform deep work, thrive, and flourish. That
 is why we make this handbook public.
 
-Our public product roadmap is available on [GitHub](https://github.com/DataCater/public-roadmap/projects/1).
-
 Feel free to look around, ask questions, or make proposals for changes.
 
 # Open Positions
