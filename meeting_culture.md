@@ -43,4 +43,4 @@ We use 1:1s as a way to stay in touch with each other beyond daily work activiti
 ## Team Building
 
 As remote workers, it’s easy to get drowned in work and forget to socialize with colleagues.
-Fridays at 4:30 pm CEST, we meet in a Zoom call to hangout and play games together. Participation in this meeting is optional but always lots of fun.
+Fridays at 1 pm CEST, we meet in a Zoom call to hangout and play games together. Participation in this meeting is optional but always lots of fun.
